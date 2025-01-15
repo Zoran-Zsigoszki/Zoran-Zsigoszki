@@ -1,6 +1,6 @@
 ## Hello 
 
-This os a short readme file with no real value, apart from 
+This is a short readme file with no real value, apart from 510 bytes.
 
 <!--
 **Zoran-Zsigoszki/Zoran-Zsigoszki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
